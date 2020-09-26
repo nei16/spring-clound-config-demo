@@ -1,2 +1,2 @@
-env: test
-hello: Linda
+application: user-service
+name: Linda
